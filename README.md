@@ -5,11 +5,11 @@ Project Details
 •	Course: FINC510 Residency
 •	Group: 2
 •	Authors:
-      o	Ravi Teja Pancheddula 
-      o	Vathsalya Kumar
-      o	Nagaraju
-      o	Giridhar Kishore
-      o	FMohsin Khan Shaik
+      -	Ravi Teja Pancheddula 
+      -	Vathsalya Kumar
+      -	Nagaraju
+      -	Giridhar Kishore
+      -	FMohsin Khan Shaik
 ________________________________________
 Analysis Overview
 This project provides a deep dive into the financial health and performance of JPM and BofA. The core components of the analysis include:
