@@ -5,22 +5,22 @@ Project Details
 •	Course: FINC510 Residency
 •	Group: 2
 •	Authors:
-      -	Ravi Teja Pancheddula 
-      -	Vathsalya Kumar
-      -	Nagaraju
-      -	Giridhar Kishore
-      -	FMohsin Khan Shaik
+      ->	Ravi Teja Pancheddula 
+      ->	Vathsalya Kumar
+      ->	Nagaraju
+      ->	Giridhar Kishore
+      ->	FMohsin Khan Shaik
 ________________________________________
 Analysis Overview
 This project provides a deep dive into the financial health and performance of JPM and BofA. The core components of the analysis include:
 •	Company Background: An overview of JPMorgan Chase's operations, global presence, product lines, and primary competitors.
 •	Common-Size Analysis (2021-2023): A comparative look at the income statements for both JPM and BofA. This analysis normalizes total revenue to 100% to identify trends in interest income, non-interest income, and operating expenses.
 •	Financial Ratio Analysis (2021-2023): A head-to-head comparison of key performance indicators, including:
-  o	Profit Margin
-  o	Return on Assets (ROA)
-  o	Return on Equity (ROE)
-  o	Debt to Asset Ratio
-  o	Current Ratio
+  •	Profit Margin
+  •	Return on Assets (ROA)
+  •	Return on Equity (ROE)
+  •	Debt to Asset Ratio
+  •	Current Ratio
 •	SWOT Analysis: A strategic review of JPMorgan Chase's Strengths , Weaknesses , Opportunities , and Threats.
 •	Strategic Recommendations: Actionable recommendations for JPM focusing on fintech investment, operational efficiency, and risk management.
 ________________________________________
@@ -33,14 +33,14 @@ ________________________________________
 Methodology & Data Sources
 Financial data for both banks from 2021 to 2023 was gathered and standardized to perform the common-size and ratio analyses.
 •	Tools:
-  o	Microsoft Excel (implied for calculations)
-  o	Microsoft PowerPoint (for presentation)
-  o	OpenAI ChatGPT was used to provide AI-based financial analysis support.
+  •	Microsoft Excel (implied for calculations)
+  •	Microsoft PowerPoint (for presentation)
+  •	OpenAI ChatGPT was used to provide AI-based financial analysis support.
 •	Data Sources:
-  o	JPMorgan Chase 10-K 2023 (sec.gov) 
-  o	Bank of America 10-K 2023 (sec.gov) 
-  o	Macrotrends.net 
-  o	Yahoo Finance 
+  •	JPMorgan Chase 10-K 2023 (sec.gov) 
+  •	Bank of America 10-K 2023 (sec.gov) 
+  •	Macrotrends.net 
+  •	Yahoo Finance 
 ________________________________________
 How to View
 The complete findings and analysis are available in the project's slide deck:
